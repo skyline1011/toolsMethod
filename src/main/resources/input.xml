@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testData>
+    <testCase name ="addNewId" >
+        <usId>200082</usId>
+        <phoneNo>18667120696</phoneNo>
+        <idCardNo>410432198806250034</idCardNo>
+        <isMarry>2</isMarry>
+        <patName>张三</patName>
+        <workUnit>力太科技</workUnit>
+        <email>qigw@hundsun.com</email>
+        <addr>浙江省杭州市滨江区滨安路1181号王道公园</addr>
+        <postNo>310052</postNo>
+        <relation>5</relation>
+        <sex>0</sex>
+        <defaultPatFlag>Y</defaultPatFlag>
+    </testCase>
+</testData>
